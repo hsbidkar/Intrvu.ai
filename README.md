@@ -1,3 +1,3 @@
 # Inttrvu.ai
 Inttrvu.ai projects
-## Insurance premium predictor
+## 1. Insurance premium predictor
