@@ -1,2 +1,3 @@
-# Intrvu.ai
-Intrvu.ai projects
+# Inttrvu.ai
+Inttrvu.ai projects
+## Insurance premium predictor
